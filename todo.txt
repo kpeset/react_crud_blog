@@ -1,0 +1,7 @@
+MISSION DU JOUR : Faire un formulaire en plusieurs étapes
+
+- Créer la page register et l'ajouter au router X
+- Créer trois composants : Etape 1 - Etape 2 - Etape finale que nous afficherons dans un premier temps sur register X
+
+- Quand je clique sur le bonton continuer de chaque étape, aller à l'étape suivante
+
